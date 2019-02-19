@@ -1,0 +1,1 @@
+Simple text file as the first commit
